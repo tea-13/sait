@@ -1,0 +1,67 @@
+body {
+	background-color: #260D35;
+	color: white;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+a:hover{
+	color: #ffb16d;
+}
+a.top-str{
+	font-size: 40px;
+	padding: 5px;
+	border-radius: 4px;
+	background-color:  #1a0726;
+	margin: 25px;
+}
+
+div.top {
+	padding: 1.5%;
+	text-align: center;
+	height: 100%;
+	margin: 1%;
+	background-color: #1a0726;
+}
+
+p.main-text{
+	font-size: 30px;
+	padding-right: 10%;
+	padding-left: 10%;
+}
+
+div.main{
+	text-align: center;
+	margin: 2%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+div.exmple{
+	margin-bottom: 60px;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+.leftimg {
+	float:left; /* Выравнивание по левому краю */
+	margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+}
+
+.header {
+	text-align: center;
+}
+
+.exp {
+	font-size: 30px;
+}
+
+div.inf{
+	margin-bottom: 60px;
+	margin-right: 10%;
+	margin-left: 10%;
+	background-color: #1a0726;
+	border-radius: 5px;
+	border-width: 2px;
+	padding: 10px;
+}
